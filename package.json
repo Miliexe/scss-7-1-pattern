@@ -1,0 +1,19 @@
+{
+  "name": "scss-7-1-pattern",
+  "version": "1.0.0",
+  "description": "Le système de fichiers 7-1 se compose de sept dossiers thématiques qui sont regroupés dans un fichier .scss.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miliexe/scss-7-1-pattern.git"
+  },
+  "author": "https://github.com/Miliexe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miliexe/scss-7-1-pattern/issues"
+  },
+  "homepage": "https://github.com/Miliexe/scss-7-1-pattern#readme"
+}
