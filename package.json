@@ -13,6 +13,7 @@
   },
   "author": "https://github.com/Miliexe",
   "license": "ISC",
+  "browserslist": "last 4 versions",
   "bugs": {
     "url": "https://github.com/Miliexe/scss-7-1-pattern/issues"
   },
